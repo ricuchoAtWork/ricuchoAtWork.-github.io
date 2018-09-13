@@ -1,2 +1,2 @@
-# ricuchoAtWork.-github.io
+# ricuchoAtWork.github.io
 Testing creating new repo
